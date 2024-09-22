@@ -4,3 +4,5 @@ Usage: python 7z_crack.py -f /filepath -p /path/to/wordlist
 
 
 If you are having any problems please run this command: pip install py7zr
+
+WORKS FASTER ON HOST OS THAN VM
